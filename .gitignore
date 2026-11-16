@@ -1,0 +1,20 @@
+# 开发调试产物（截图 / 一次性脚本），不入库
+frontend/.tools/
+frontend/.preview/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 日志与临时文件
+*.log
+*.tmp

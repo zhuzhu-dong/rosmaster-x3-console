@@ -1,0 +1,98 @@
+[
+  {
+    "file": "s1-01.jpg",
+    "session": "s1",
+    "sessionLabel": "2026-10-10 02:52Z",
+    "frameSeq": 35,
+    "timeUtc": "02:52:53.279",
+    "bytes": 50608,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791600773279775000_00000035"
+  },
+  {
+    "file": "s1-02.jpg",
+    "session": "s1",
+    "sessionLabel": "2026-10-10 02:52Z",
+    "frameSeq": 60,
+    "timeUtc": "02:52:55.771",
+    "bytes": 49177,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791600775771774000_00000060"
+  },
+  {
+    "file": "s1-03.jpg",
+    "session": "s1",
+    "sessionLabel": "2026-10-10 02:52Z",
+    "frameSeq": 122,
+    "timeUtc": "02:52:58.479",
+    "bytes": 51260,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791600778479770000_00000122"
+  },
+  {
+    "file": "s1-04.jpg",
+    "session": "s1",
+    "sessionLabel": "2026-10-10 02:52Z",
+    "frameSeq": 184,
+    "timeUtc": "02:53:02.183",
+    "bytes": 51253,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791600782183794000_00000184"
+  },
+  {
+    "file": "s2-01.jpg",
+    "session": "s2",
+    "sessionLabel": "2026-10-10 05:30Z",
+    "frameSeq": 16,
+    "timeUtc": "05:30:05.680",
+    "bytes": 117190,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791610205680160000_00000016"
+  },
+  {
+    "file": "s2-02.jpg",
+    "session": "s2",
+    "sessionLabel": "2026-10-10 05:30Z",
+    "frameSeq": 56,
+    "timeUtc": "05:30:07.072",
+    "bytes": 116257,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791610207072232000_00000056"
+  },
+  {
+    "file": "s2-03.jpg",
+    "session": "s2",
+    "sessionLabel": "2026-10-10 05:30Z",
+    "frameSeq": 84,
+    "timeUtc": "05:30:09.744",
+    "bytes": 115611,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791610209744284000_00000084"
+  },
+  {
+    "file": "s2-04.jpg",
+    "session": "s2",
+    "sessionLabel": "2026-10-10 05:30Z",
+    "frameSeq": 142,
+    "timeUtc": "05:30:12.212",
+    "bytes": 115392,
+    "topic": "/camera/rgb/image_raw/compressed",
+    "width": 640,
+    "height": 480,
+    "source": "1791610212212652000_00000142"
+  }
+]
